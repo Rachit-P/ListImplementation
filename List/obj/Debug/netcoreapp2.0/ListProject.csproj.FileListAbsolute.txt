@@ -1,0 +1,11 @@
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\bin\Debug\netcoreapp2.0\ListProject.deps.json
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\bin\Debug\netcoreapp2.0\ListProject.runtimeconfig.json
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\bin\Debug\netcoreapp2.0\ListProject.runtimeconfig.dev.json
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\bin\Debug\netcoreapp2.0\ListProject.dll
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\bin\Debug\netcoreapp2.0\ListProject.pdb
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.csprojAssemblyReference.cache
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.csproj.CoreCompileInputs.cache
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.AssemblyInfoInputs.cache
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.AssemblyInfo.cs
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.dll
+C:\Rachit's\MyVault\PersonalDocs\Professional\CV & Notes\DataStructures\Projects\List\List\obj\Debug\netcoreapp2.0\ListProject.pdb
